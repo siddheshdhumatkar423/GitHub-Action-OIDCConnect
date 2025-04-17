@@ -2,7 +2,7 @@ name: AWS OIDC Connect Demo GA
 on:
   push
 env:
-  AWS_REGION : "eu-west-2"   
+  AWS_REGION : "us-east-1"   
 permissions:
       id-token: write
       contents: read
